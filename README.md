@@ -29,7 +29,7 @@ Esse projeto simula um **carrinho de compras**, onde você **pode adicionar um p
 <img src = "img/Passo3.jpg">
 
 - Passo 5: Após a instalação, procure a classe principal ***(Main)*** e execute o programa
-<img src = "img/Passo4.jpg">>
+<img src = "img/Passo4.jpg">
 
 ## 🏅 Certificado de Conclusão 
 
